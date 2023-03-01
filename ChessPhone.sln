@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPhone", "ChessPhone\ChessPhone.csproj", "{5C48AE01-99C3-487E-B17F-C124B0CBEBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPhone.Console", "ChessPhone.Console\ChessPhone.Console.csproj", "{548E63A7-E98D-4EAE-ACF3-2C55C78AF39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPhone.Tests", "ChessPhone.Tests\ChessPhone.Tests.csproj", "{9DE37320-3F1C-454B-9D36-0363A9F602A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C48AE01-99C3-487E-B17F-C124B0CBEBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C48AE01-99C3-487E-B17F-C124B0CBEBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C48AE01-99C3-487E-B17F-C124B0CBEBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C48AE01-99C3-487E-B17F-C124B0CBEBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548E63A7-E98D-4EAE-ACF3-2C55C78AF39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548E63A7-E98D-4EAE-ACF3-2C55C78AF39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548E63A7-E98D-4EAE-ACF3-2C55C78AF39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548E63A7-E98D-4EAE-ACF3-2C55C78AF39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE37320-3F1C-454B-9D36-0363A9F602A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE37320-3F1C-454B-9D36-0363A9F602A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE37320-3F1C-454B-9D36-0363A9F602A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE37320-3F1C-454B-9D36-0363A9F602A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
